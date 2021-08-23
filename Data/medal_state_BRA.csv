@@ -1,24 +1,24 @@
-Estado,Gold,Silver,Bronze,Total
-São Paulo,45,67,92,204
-Rio de Janeiro,27,30,36,93
-Minas Gerais,14,13,9,36
-Rio Grande do Sul,11,21,14,46
-Paraná,8,19,10,37
-Bahia,7,12,5,24
-Distrito Federal,7,2,4,13
-Pernambuco,5,1,3,9
-Espírito Santo,3,4,3,10
-Paraíba,3,3,0,6
-Acre,2,0,0,2
-Alagoas,1,2,2,5
-Goiás,1,2,1,4
-Piauí,1,2,1,4
-Rio Grande do Norte,1,1,3,5
-Pará,1,1,1,3
-Roraima,1,0,0,1
-Santa Catarina,0,6,3,9
-Maranhão,0,3,1,4
-Ceará,0,3,0,3
-Mato Grosso do Sul,0,1,3,4
-Amazonas,0,1,1,2
-Sergipe,0,0,1,1
+,Estado,Gold,Silver,Bronze,Total
+0,São Paulo,45,67,92,204
+1,Rio de Janeiro,27,30,36,93[14]
+2,Minas Gerais,14,13,9,36[15]
+3,Rio Grande do Sul,11,21,14,46[16]
+4,Paraná,8,19,10,37
+5,Bahia,7,12,5,24[17][18]
+6,Distrito Federal,7,2,4,13
+7,Pernambuco,5,1,3,9[19]
+8,Espírito Santo,3,4,3,10[20]
+9,Paraíba,3,3,0,6[21]
+10,Acre,2,0,0,2[22]
+11,Alagoas,1,2,2,5[23]
+12,Goiás,1,2,1,4
+13,Piauí,1,2,1,4[24]
+14,Rio Grande do Norte,1,1,3,5[25]
+15,Pará,1,1,1,3[26][27]
+16,Roraima,1,0,0,1[28]
+17,Santa Catarina,0,6,3,9[29][30]
+18,Maranhão,0,3,1,4
+19,Ceará,0,3,0,3[31]
+20,Mato Grosso do Sul,0,1,3,4[32]
+21,Amazonas,0,1,1,2[33]
+22,Sergipe,0,0,1,1[34]
