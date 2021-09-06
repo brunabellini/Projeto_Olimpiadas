@@ -1,0 +1,205 @@
+;Colocação;País;IDH
+0;1;Noruega;0.957
+1;2;Suíça;0.955
+2;2;Irlanda;0.955
+3;4;Hong Kong (China);0.949
+4;4;Islândia;0.949
+5;6;Alemanha;0.947
+6;7;Suécia;0.945
+7;8;Austrália;0.944
+8;8;Holanda;0.944
+9;10;Dinamarca;0.94
+10;11;Singapura;0.938
+11;11;Finlândia;0.938
+12;13;Reino Unido;0.932
+13;14;Nova Zelândia;0.931
+14;14;Bélgica;0.931
+15;1;Noruega;0.957
+16;2;Suíça;0.955
+17;2;Irlanda;0.955
+18;4;Hong Kong (China);0.949
+19;4;Islândia;0.949
+20;6;Alemanha;0.947
+21;7;Suécia;0.945
+22;8;Austrália;0.944
+23;8;Holanda;0.944
+24;10;Dinamarca;0.94
+25;11;Singapura;0.938
+26;11;Finlândia;0.938
+27;13;Reino Unido;0.932
+28;14;Nova Zelândia;0.931
+29;14;Bélgica;0.931
+30;16;Canadá;0.929
+31;17;Estados Unidos;0.926
+32;18;Áustria;0.922
+33;19;Liechtenstein;0.919
+34;19;Japão;0.919
+35;19;Israel;0.919
+36;22;Eslovênia;0.917
+37;23;Luxemburgo;0.916
+38;23;Coreia do Sul;0.916
+39;25;Espanha;0.904
+40;26;França;0.901
+41;27;República Tcheca;0.9
+42;28;Malta;0.895
+43;29;Itália;0.892
+44;29;Estônia;0.892
+45;31;Emirados Árabes Unidos;0.89
+46;32;Grécia;0.888
+47;33;Chipre;0.887
+48;34;Lituânia;0.882
+49;35;Polônia;0.88
+50;36;Andorra;0.868
+51;37;Letônia;0.866
+52;38;Portugal;0.864
+53;39;Eslováquia;0.86
+54;40;Arábia Saudita;0.854
+55;40;Hungria;0.854
+56;42;Bahrein;0.852
+57;43;Chile;0.851
+58;43;Croácia;0.851
+59;45;Catar;0.848
+60;46;Argentina;0.845
+61;47;Brunei Darussalam;0.838
+62;48;Montenegro;0.829
+63;49;Romênia;0.828
+64;50;Palau;0.826
+65;51;Cazaquistão;0.825
+66;52;Rússia;0.824
+67;53;Belarus;0.823
+68;54;Turquia;0.82
+69;55;Uruguai;0.817
+70;56;Bulgária;0.816
+71;57;Panamá;0.815
+72;58;Barbados;0.814
+73;58;Bahamas;0.814
+74;60;Omã;0.813
+75;61;Geórgia;0.812
+76;62;Malásia;0.81
+77;62;Costa Rica;0.81
+78;64;Kuwait;0.806
+79;64;Sérvia;0.806
+80;66;Ilhas Maurício;0.804
+81;67;Seychelles;0.796
+82;67;Trinidad e Tobago;0.796
+83;69;Albânia;0.795
+84;70;Irã;0.783
+85;70;Cuba;0.783
+86;72;Sri Lanka;0.782
+87;73;Bósnia-Herzegovina;0.78
+88;74;São Cristóvão e Nevis;0.779
+89;74;México;0.779
+90;74;Granada;0.779
+91;74;Ucrânia;0.779
+92;78;Antígua e Barbuda;0.778
+93;79;Tailândia;0.777
+94;79;Peru;0.777
+95;81;Armênia;0.776
+96;82;Macedônia do Norte;0.774
+97;83;Colômbia;0.767
+98;84;Brasil;0.765
+99;85;China;0.761
+100;86;Equador;0.759
+101;86;Santa Lúcia;0.759
+102;88;Azerbaijão;0.756
+103;88;República Dominicana;0.756
+104;90;Moldávia;0.75
+105;91;Algéria;0.748
+106;92;Líbano;0.744
+107;93;Fiji;0.743
+108;94;Dominica;0.742
+109;95;Tunísia;0.74
+110;95;Maldivas;0.74
+111;97;São Vicente e Granadinas;0.738
+112;97;Suriname;0.738
+113;99;Mongólia;0.737
+114;100;Botsuana;0.735
+115;101;Jamaica;0.734
+116;102;Jordânia;0.729
+117;103;Paraguai;0.728
+118;104;Tonga;0.725
+119;105;Líbia;0.724
+120;106;Uzbequistão;0.72
+121;107;Filipinas;0.718
+122;107;Indonésia;0.718
+123;107;Bolívia;0.718
+124;110;Belize;0.716
+125;111;Turcomenistão;0.715
+126;111;Samoa;0.715
+127;113;Venezuela;0.711
+128;114;África do Sul;0.709
+129;115;Palestina;0.708
+130;116;Egito;0.707
+131;117;Ilhas Marshall;0.704
+132;117;Vietnã;0.704
+133;119;Gabão;0.703
+134;120;Quirguistão;0.697
+135;121;Marrocos;0.686
+136;122;Guiana;0.682
+137;123;Iraque;0.674
+138;124;El Salvador;0.673
+139;125;Tajiquistão;0.668
+140;126;Cabo Verde;0.665
+141;127;Guatemala;0.663
+142;128;Nicarágua;0.66
+143;129;Butão;0.654
+144;130;Namíbia;0.646
+145;131;Índia;0.645
+146;132;Honduras;0.634
+147;133;Bangladesh;0.632
+148;134;Quiribati;0.63
+149;135;São Tomé e Príncipe;0.625
+150;136;Micronésia;0.62
+151;137;Laos;0.613
+152;138;Suazilândia;0.611
+153;138;Gana;0.611
+154;140;Vanuatu;0.609
+155;141;Timor Leste;0.606
+156;142;Nepal;0.602
+157;143;Quênia;0.601
+158;144;Cambodja;0.594
+159;145;Guiné Equatorial;0.592
+160;146;Zâmbia;0.584
+161;147;Myanmar;0.583
+162;148;Angola;0.581
+163;150;Zimbábue;0.571
+164;151;Ilhas Salomão;0.567
+165;151;Síria;0.567
+166;153;Camarões;0.563
+167;154;Paquistão;0.557
+168;155;Papua-Nova Guiné;0.555
+169;156;Comores;0.554
+170;157;Mauritânia;0.546
+171;158;Benin;0.545
+172;159;Uganda;0.544
+173;160;Ruanda;0.543
+174;161;Nigéria;0.539
+175;162;Costa do Marfim;0.538
+176;163;Tanzânia;0.529
+177;164;Madagascar;0.528
+178;165;Lesoto;0.527
+179;166;Djibouti;0.524
+180;167;Togo;0.515
+181;168;Senegal;0.512
+182;169;Afeganistão;0.511
+183;170;Sudão;0.51
+184;170;Haiti;0.51
+185;172;Gâmbia;0.496
+186;173;Etiópia;0.485
+187;174;Malawi;0.483
+188;175;Congo;0.48
+189;175;Libéria;0.48
+190;175;Guiné Bissau;0.48
+191;178;Guiné;0.477
+192;179;Iêmen;0.47
+193;179;República Democrática do Congo;0.459
+194;180;Eritreia;0.459
+195;181;Moçambique;0.456
+196;182;Serra Leoa;0.452
+197;182;Burkina Faso;0.452
+198;184;Mali;0.434
+199;185;Burundi;0.433
+200;185;Sudão do Sul;0.433
+201;187;Chade;0.398
+202;188;República Centro-Africana;0.397
+203;189;Níger;0.394
