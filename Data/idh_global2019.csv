@@ -1,140 +1,125 @@
-;Colocação;País;IDH
-0;1;Noruega;0.957
-1;2;Suíça;0.955
-2;2;Irlanda;0.955
-3;4;Hong Kong (China);0.949
-4;4;Islândia;0.949
-5;6;Alemanha;0.947
-6;7;Suécia;0.945
-7;8;Austrália;0.944
-8;8;Holanda;0.944
-9;10;Dinamarca;0.94
-10;11;Singapura;0.938
-11;11;Finlândia;0.938
-12;13;Reino Unido;0.932
-13;14;Nova Zelândia;0.931
-14;14;Bélgica;0.931
-15;1;Noruega;0.957
-16;2;Suíça;0.955
-17;2;Irlanda;0.955
-18;4;Hong Kong (China);0.949
-19;4;Islândia;0.949
-20;6;Alemanha;0.947
-21;7;Suécia;0.945
-22;8;Austrália;0.944
-23;8;Holanda;0.944
-24;10;Dinamarca;0.94
-25;11;Singapura;0.938
-26;11;Finlândia;0.938
-27;13;Reino Unido;0.932
-28;14;Nova Zelândia;0.931
-29;14;Bélgica;0.931
-30;16;Canadá;0.929
-31;17;Estados Unidos;0.926
-32;18;Áustria;0.922
-33;19;Liechtenstein;0.919
-34;19;Japão;0.919
-35;19;Israel;0.919
-36;22;Eslovênia;0.917
-37;23;Luxemburgo;0.916
-38;23;Coreia do Sul;0.916
-39;25;Espanha;0.904
-40;26;França;0.901
-41;27;República Tcheca;0.9
+;Colocação;País;IDH;NOCCode
+15;1;Noruega;0.957;NOR
+16;2;Suíça;0.955;SUI
+17;2;Irlanda;0.955;IRL
+18;4;Hong Kong (China);0.949;
+19;4;Islândia;0.949;
+20;6;Alemanha;0.947;GER
+21;7;Suécia;0.945;SWE
+22;8;Austrália;0.944;AUS
+23;8;Holanda;0.944;NED
+24;10;Dinamarca;0.94;DEN
+25;11;Singapura;0.938;
+26;11;Finlândia;0.938;FIN
+27;13;Reino Unido;0.932;GBR
+28;14;Nova Zelândia;0.931;NZL
+29;14;Bélgica;0.931;BEL
+30;16;Canadá;0.929;CAN
+31;17;Estados Unidos;0.926;USA
+32;18;Áustria;0.922;AUT
+33;19;Liechtenstein;0.919;
+34;19;Japão;0.919;JPN
+35;19;Israel;0.919;ISR
+36;22;Eslovênia;0.917;SLO
+37;23;Luxemburgo;0.916;
+38;23;Coreia do Sul;0.916;KOR
+39;25;Espanha;0.904;ESP
+40;26;França;0.901;FRA
+41;27;República Tcheca;0.9;CZE
 42;28;Malta;0.895
-43;29;Itália;0.892
-44;29;Estônia;0.892
+43;29;Itália;0.892;ITA
+44;29;Estônia;0.892;EST
 45;31;Emirados Árabes Unidos;0.89
-46;32;Grécia;0.888
+46;32;Grécia;0.888;GRE
 47;33;Chipre;0.887
-48;34;Lituânia;0.882
-49;35;Polônia;0.88
+48;34;Lituânia;0.882;LTU
+49;35;Polônia;0.88;POL
 50;36;Andorra;0.868
 51;37;Letônia;0.866
-52;38;Portugal;0.864
-53;39;Eslováquia;0.86
+52;38;Portugal;0.864;POR
+53;39;Eslováquia;0.86;SVK
 54;40;Arábia Saudita;0.854
-55;40;Hungria;0.854
-56;42;Bahrein;0.852
+55;40;Hungria;0.854;HUN
+56;42;Bahrein;0.852;BRN
 57;43;Chile;0.851
-58;43;Croácia;0.851
-59;45;Catar;0.848
-60;46;Argentina;0.845
+58;43;Croácia;0.851;CRO
+59;45;Catar;0.848;QAT
+60;46;Argentina;0.845;ARG
 61;47;Brunei Darussalam;0.838
 62;48;Montenegro;0.829
-63;49;Romênia;0.828
+63;49;Romênia;0.828;ROM
 64;50;Palau;0.826
-65;51;Cazaquistão;0.825
-66;52;Rússia;0.824
+65;51;Cazaquistão;0.825;KAZ
+66;52;Rússia;0.824;RUS
 67;53;Belarus;0.823
-68;54;Turquia;0.82
+68;54;Turquia;0.82;TUR
 69;55;Uruguai;0.817
-70;56;Bulgária;0.816
+70;56;Bulgária;0.816;BUL
 71;57;Panamá;0.815
 72;58;Barbados;0.814
-73;58;Bahamas;0.814
+73;58;Bahamas;0.814;BAH
 74;60;Omã;0.813
-75;61;Geórgia;0.812
-76;62;Malásia;0.81
+75;61;Geórgia;0.812;GEO
+76;62;Malásia;0.81;MAS
 77;62;Costa Rica;0.81
 78;64;Kuwait;0.806
-79;64;Sérvia;0.806
+79;64;Sérvia;0.806;SRB
 80;66;Ilhas Maurício;0.804
 81;67;Seychelles;0.796
 82;67;Trinidad e Tobago;0.796
 83;69;Albânia;0.795
-84;70;Irã;0.783
-85;70;Cuba;0.783
+84;70;Irã;0.783;IRA
+85;70;Cuba;0.783;CUB
 86;72;Sri Lanka;0.782
 87;73;Bósnia-Herzegovina;0.78
 88;74;São Cristóvão e Nevis;0.779
-89;74;México;0.779
-90;74;Granada;0.779
-91;74;Ucrânia;0.779
+89;74;México;0.779;MEX
+90;74;Granada;0.779;GRN
+91;74;Ucrânia;0.779;UKR
 92;78;Antígua e Barbuda;0.778
-93;79;Tailândia;0.777
+93;79;Tailândia;0.777;THA
 94;79;Peru;0.777
-95;81;Armênia;0.776
+95;81;Armênia;0.776;ARM
 96;82;Macedônia do Norte;0.774
-97;83;Colômbia;0.767
-98;84;Brasil;0.765
-99;85;China;0.761
+97;83;Colômbia;0.767;COL
+98;84;Brasil;0.765;BRA
+99;85;China;0.761;CHN
 100;86;Equador;0.759
 101;86;Santa Lúcia;0.759
-102;88;Azerbaijão;0.756
-103;88;República Dominicana;0.756
+102;88;Azerbaijão;0.756;AZE
+103;88;República Dominicana;0.756;DOM
 104;90;Moldávia;0.75
 105;91;Algéria;0.748
 106;92;Líbano;0.744
-107;93;Fiji;0.743
+107;93;Fiji;0.743;FIJ
 108;94;Dominica;0.742
-109;95;Tunísia;0.74
+109;95;Tunísia;0.74;TUN
 110;95;Maldivas;0.74
 111;97;São Vicente e Granadinas;0.738
 112;97;Suriname;0.738
-113;99;Mongólia;0.737
+113;99;Mongólia;0.737;MGL
 114;100;Botsuana;0.735
-115;101;Jamaica;0.734
-116;102;Jordânia;0.729
+115;101;Jamaica;0.734;JAM
+116;102;Jordânia;0.729;JOR
 117;103;Paraguai;0.728
 118;104;Tonga;0.725
 119;105;Líbia;0.724
-120;106;Uzbequistão;0.72
-121;107;Filipinas;0.718
+120;106;Uzbequistão;0.72;UZB
+121;107;Filipinas;0.718;PHI
 122;107;Indonésia;0.718
 123;107;Bolívia;0.718
 124;110;Belize;0.716
 125;111;Turcomenistão;0.715
 126;111;Samoa;0.715
-127;113;Venezuela;0.711
+127;113;Venezuela;0.711;VEN
 128;114;África do Sul;0.709
 129;115;Palestina;0.708
-130;116;Egito;0.707
+130;116;Egito;0.707;EGY
 131;117;Ilhas Marshall;0.704
 132;117;Vietnã;0.704
 133;119;Gabão;0.703
 134;120;Quirguistão;0.697
-135;121;Marrocos;0.686
+135;121;Marrocos;0.686;MAR
 136;122;Guiana;0.682
 137;123;Iraque;0.674
 138;124;El Salvador;0.673
@@ -144,7 +129,7 @@
 142;128;Nicarágua;0.66
 143;129;Butão;0.654
 144;130;Namíbia;0.646
-145;131;Índia;0.645
+145;131;Índia;0.645;IND
 146;132;Honduras;0.634
 147;133;Bangladesh;0.632
 148;134;Quiribati;0.63
@@ -156,7 +141,7 @@
 154;140;Vanuatu;0.609
 155;141;Timor Leste;0.606
 156;142;Nepal;0.602
-157;143;Quênia;0.601
+157;143;Quênia;0.601;KEN
 158;144;Cambodja;0.594
 159;145;Guiné Equatorial;0.592
 160;146;Zâmbia;0.584
@@ -173,8 +158,8 @@
 171;158;Benin;0.545
 172;159;Uganda;0.544
 173;160;Ruanda;0.543
-174;161;Nigéria;0.539
-175;162;Costa do Marfim;0.538
+174;161;Nigéria;0.539;NGR
+175;162;Costa do Marfim;0.538;CIV
 176;163;Tanzânia;0.529
 177;164;Madagascar;0.528
 178;165;Lesoto;0.527
@@ -185,7 +170,7 @@
 183;170;Sudão;0.51
 184;170;Haiti;0.51
 185;172;Gâmbia;0.496
-186;173;Etiópia;0.485
+186;173;Etiópia;0.485;ETH
 187;174;Malawi;0.483
 188;175;Congo;0.48
 189;175;Libéria;0.48
@@ -201,5 +186,5 @@
 199;185;Burundi;0.433
 200;185;Sudão do Sul;0.433
 201;187;Chade;0.398
-202;188;República Centro-Africana;0.397
+202;188;República Centro-Africana;0.397;RSA
 203;189;Níger;0.394
