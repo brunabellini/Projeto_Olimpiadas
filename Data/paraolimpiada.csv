@@ -1,4 +1,4 @@
-Ano;Local;Ouro(Para);Prata(Para);Bronze(Para);Total(Para);Colocação(Para);Atletas(Para);Homens(Para);Mulheres(Para);Modalidades
+Ano;Local;Ouro paralimpíadas;Prata paralimpíadas;Bronze paralimpíadas;Total paralimpíadas;Colocação paralimpíadas;Atletas paralimpíadas;Homens paralimpíadas;Mulheres paralimpíadas;Modalidades paralimpíadas
 2020;Tóquio;22;20;30;72;7;259;163;96;20
 2016;Rio;14;29;29;72;8;286;184;102;22
 2012;Londres;21;14;8;43;7;182;133;69;18
@@ -9,4 +9,13 @@ Ano;Local;Ouro(Para);Prata(Para);Bronze(Para);Total(Para);Colocação(Para);Atle
 1992;Barcelona;3;0;4;7;27;43;33;10;5
 1988;Seul;4;9;14;27;25;62;51;11;5
 1984;Nova Iorque;7;17;4;28;24;29;23;6;2
+1980;Holanda;0;0;0;0;0;0;0;0;0
 1976;Toronto;0;1;0;1;31;33;31;2;9
+1972;Munique;0;0;0;0;0;0;0;0;0
+1968;Cidade do México;00;00;00;00;00;00;00;00;00
+1964;Tóquio;00;00;00;00;00;00;00;00;00
+1960;Roma;00;00;00;00;00;00;00;00;00
+1956;Melbourne;00;00;00;00;00;00;00;00;00
+1952;Helsinque;00;00;00;00;00;00;00;00;00
+1948;Londres;00;00;00;00;00;00;00;00;00
+1920;Antuérpia;00;00;00;00;00;00;00;00;00
