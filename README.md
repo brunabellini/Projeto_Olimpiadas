@@ -5,8 +5,9 @@
 <h4><a href="#about">Autoras</a> | <a href="#introduction">Introdução</a>
 
 <br />
+<br />	
 	
-<img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 	
+<img src="https://madmais.vteximg.com.br/arquivos/ids/157184-0-0/LAMINADO-PERTECH-AZUL-REAL-PP3620-TX.jpg?v=637308454415300000" align="left" width="1000" height="5"/> 	
 <h2 id="about">Autoras e autor</h2>
 
 <br />
