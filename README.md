@@ -16,8 +16,8 @@
 
 <br />
 
+<p>Abdul Malik de Barros</p> 	
 <p>Ana Beatriz Oliveira de Macedo</p> 
-<p>Abdul Malik de Barros</p> 
 <p>Bruna Bellini Faria</p> 
 <p>Heloisa Mariani Rodrigues</p> 
 <p>Marina Lara</p> 
