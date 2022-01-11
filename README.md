@@ -64,6 +64,15 @@ Abaixo você encontra o link do repositório com todos os códigos e dados até 
 
 
 <img src="https://img.kalunga.com.br/fotosdeprodutos/479736z_1.jpg" align="left" width="1000" height="5"/> 
+<h2 id="acknowledgement">Conhecimentos</h2>
+
+<p>
+	Foi muito importante para todo o desenvolvimento do trabalho manter a mente aberta para buscar diversos dados e informações que são pouco divulgadas na mídia e dificilmente analisados, a formulação dos dados para tentar demonstrar a importância de ambos o vento, olimpíadas e paraolimpíadas, foi um grande foco deste trabalho, durante o processo de desenvolvimento houveram vários dificuldades que enfrentamos em relação a busca, coleta e análise dos dados, já que a  maioria das informações encontradas pelo nosso grupo foram em sites midiáticos, dos quais as informações não são de fácil acesso para análise. Todo esse esforço fez com que entendêssemos muito mais sobre o assunto, criando uma mentalidade sobre a relevância do assunto, a qual se fosse inserida na população poderia abrir a mente dos cidadãos sobre os assuntos como inclusão social, importância das correlações, pensamento crítico sobre  sociedade e relevância midiática.
+</p>
+
+<br />
+	
+<img src="http://d3ugyf2ht6aenh.cloudfront.net/stores/659/777/products/1246-cartolina-carmem-premiatta-48x66-verde-escuro1-c1c899806d9034295b15465363989698-640-0.png" align="left" width="1000" height="5"/> 
 <h2 id="reference">Referências</h2>
 
 <ul>
@@ -78,12 +87,3 @@ Abaixo você encontra o link do repositório com todos os códigos e dados até 
 	<li>https://pt.wikipedia.org/wiki/Brasil_nos_Jogos_Paral%C3%ADmpicos</li>
 	<li>http://rededoesporte.gov.br/pt-br/megaeventos/olimpiadas/o-brasil-nos-jogos/pequim</li>
 </ul>
-
-<br />
-	
-<img src="http://d3ugyf2ht6aenh.cloudfront.net/stores/659/777/products/1246-cartolina-carmem-premiatta-48x66-verde-escuro1-c1c899806d9034295b15465363989698-640-0.png" align="left" width="1000" height="5"/> 
-<h2 id="acknowledgement">Conhecimentos</h2>
-
-<p>
-	Foi muito importante para todo o desenvolvimento do trabalho manter a mente aberta para buscar diversos dados e informações que são pouco divulgadas na mídia e dificilmente analisados, a formulação dos dados para tentar demonstrar a importância de ambos o vento, olimpíadas e paraolimpíadas, foi um grande foco deste trabalho, durante o processo de desenvolvimento houveram vários dificuldades que enfrentamos em relação a busca, coleta e análise dos dados, já que a  maioria das informações encontradas pelo nosso grupo foram em sites midiáticos, dos quais as informações não são de fácil acesso para análise. Todo esse esforço fez com que entendêssemos muito mais sobre o assunto, criando uma mentalidade sobre a relevância do assunto, a qual se fosse inserida na população poderia abrir a mente dos cidadãos sobre os assuntos como inclusão social, importância das correlações, pensamento crítico sobre  sociedade e relevância midiática.
-</p>
